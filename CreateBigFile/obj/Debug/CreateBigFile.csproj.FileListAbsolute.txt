@@ -1,0 +1,6 @@
+D:\Projects\MSVS\C#\CreateBigFile\CreateBigFile\bin\Debug\CreateBigFile.exe.config
+D:\Projects\MSVS\C#\CreateBigFile\CreateBigFile\bin\Debug\CreateBigFile.exe
+D:\Projects\MSVS\C#\CreateBigFile\CreateBigFile\bin\Debug\CreateBigFile.pdb
+D:\Projects\MSVS\C#\CreateBigFile\CreateBigFile\obj\Debug\CreateBigFile.csprojResolveAssemblyReference.cache
+D:\Projects\MSVS\C#\CreateBigFile\CreateBigFile\obj\Debug\CreateBigFile.exe
+D:\Projects\MSVS\C#\CreateBigFile\CreateBigFile\obj\Debug\CreateBigFile.pdb
